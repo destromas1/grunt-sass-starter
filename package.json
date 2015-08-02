@@ -1,0 +1,12 @@
+{
+  "name": "ng-grunt-karma-starter",
+  "version": "0.0.1",
+
+  "devDependencies": {
+    "grunt": "~0.4.1",
+    "node-sass": "~0.7.0",
+    "grunt-sass": "~0.8.0",
+    "grunt-contrib-watch": "~0.5.3",
+    "grunt-contrib-jshint": "~0.7.2"   
+  }
+}
